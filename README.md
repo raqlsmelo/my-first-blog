@@ -1,0 +1,1 @@
+tutorial: https://tutorial.djangogirls.org/pt/
